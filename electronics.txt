@@ -1,0 +1,12 @@
+1 realme_x 20 30000
+2 television 7 200000
+3 remote 20 1000
+4 harddisk 40 7000
+5 cd 100 10
+6 camera 50 25000
+7 watch 30 5000
+8 wristband 40 2000
+9 pendrive 60 500
+10 monitor 10 10000
+
+11 sdrg 2 34

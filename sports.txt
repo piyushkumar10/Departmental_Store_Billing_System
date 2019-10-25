@@ -1,0 +1,11 @@
+1 hockeybat 50 5000
+2 tennisbat 70 2000
+3 glouse 20 700
+4 pad 20 450
+5 ball 50 10
+6 racket 20 6000
+7 shoes 40 500
+8 headbands 50 50
+9 goggles 50 100
+
+435 45 5 5
